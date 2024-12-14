@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: '0740799219',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @name [ Sadun prasanna ] I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -56,9 +56,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
-  SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
-  VIDEO_DOWNLOAD_TYPE: 'selectable', // video
-  FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
+  SONG_DOWNLOAD_TYPE: '.song', // audio , document
+  VIDEO_DOWNLOAD_TYPE: 'video', // video
+  FB_DOWNLOAD_TYPE: '.F.b', // hdvideo , sdvideo
   TIKTOK_DOWNLOAD_TYPE: 'selectable', // nowmvideo , wmvideo
   MSG: {
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
